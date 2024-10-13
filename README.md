@@ -25,7 +25,7 @@ This is a Python-based network traffic analyzer built using **Scapy** and **Matp
    pip install -r requirements.txt
 3. Run the application:
    ```bash
-   python app.py
+   python3 app.py
 
 ## Usage
 
